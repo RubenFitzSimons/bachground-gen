@@ -1,3 +1,17 @@
+// import {without} from './lodash';
+
+// console.log(drop);
+
+// _.drop([1, 2, 3]);
+
+ var _ = require('lodash');
+
+// import _ from 'lodash';
+
+var ar = [1,2,3,4,5,6];
+
+console.log(_.without(ar, 3));
+
 var h3Select = document.querySelector("h3");
 
 var color1 = document.querySelector(".color1");

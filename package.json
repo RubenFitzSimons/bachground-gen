@@ -1,0 +1,22 @@
+{
+  "name": "background-gen",
+  "version": "1.0.0",
+  "description": "Welcome to the code base.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenFitzSimons/background-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenFitzSimons/background-gen/issues"
+  },
+  "homepage": "https://github.com/RubenFitzSimons/background-gen#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
