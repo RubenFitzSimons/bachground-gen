@@ -1,1 +1,2 @@
-# bachground-gen
+# background-gen
+Welcome to the code base. 
